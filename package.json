@@ -1,0 +1,7 @@
+{
+  "name": "strapi-assessment-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tosin Amuda <tosin.amuda1@ibm.com>",
+  "license": "MIT"
+}
