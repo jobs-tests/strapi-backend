@@ -1,0 +1,17 @@
+[
+    {
+        "code": "ZXD012",
+        "departure_at": "2021-12-01T00:00:00Z",
+        "seat_count": 23,
+        "launch_site": "7d5555e1-970d-4259-a016-4e690f4e0a86",
+        "landing_site": "6af94707-6093-4a4c-8127-0aa81f6fc489"
+    },
+    {
+        "code": "ZXD013",
+        "departure_at": "2021-12-01T00:00:00Z",
+        "seat_count": 23,
+        "launch_site":"d88d00e8-fae5-4505-9018-98c9494e66e4",
+        "landing_site": "6af94707-6093-4a4c-8127-0aa81f6fc489"
+    }
+]
+
